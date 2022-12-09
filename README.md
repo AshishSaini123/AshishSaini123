@@ -26,8 +26,6 @@
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.iconscout.com/icon/free/png-256/express-8-1175029.png" alt="express" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -41,7 +39,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaAFUuo6lNUC4BwZ1-HRqN8ZrTQ-WFcaw5JL5GimbkMg&s" alt="redux" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishsaini123&show_icons=true&locale=en&layout=compact" alt="ashishsaini123" /></p>
