@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Ashish Saini</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -16,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-saini-6b3a9920a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashish saini" height="30" width="40" />Ashish Saini</a>
+<a href="https://www.linkedin.com/in/ashish-saini-6b3a9920a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashish saini" height="30" width="40" /></a>
 </p>
 
 
