@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I love to play cricket**
 
+- 💬 Have a look at my <a href="https://serene-entremet-62e1ea.netlify.app/">Portfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashish-saini-6b3a9920a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashish saini" height="30" width="40" /></a>
