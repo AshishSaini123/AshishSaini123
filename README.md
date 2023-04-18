@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I love to play cricket**
 
-- 💬 Have a look at my <a href="https://ashishsainiiportfolio.netlify.app/">Portfolio</a>
+- 💬 Have a look at my <a href="https://ashishsaini123portfolio.netlify.app/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
